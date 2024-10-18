@@ -29,6 +29,7 @@ Além disso, foco sempre em escrever código limpo e bem documentado, utilizando
 ###
 
 <div> 
+  <a href = "https://wa.me/5531971871352"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_green"></a>
   <a href="https://www.instagram.com/flaviio_rodriguess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "flavio.rodriiguess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavio-santos-8b3a4b213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
